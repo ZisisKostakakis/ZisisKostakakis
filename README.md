@@ -43,37 +43,49 @@ class SoftwareEngineer:
 
 ## 🛠️ Tech Stack
 
-### Backend Languages
+<div align="center">
+  <h3>Backend Languages</h3>
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,java" />
 </div>
 
-### Frontend Frameworks
+<div align="center">
+  <h3>Frontend Frameworks</h3>
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,angular,html,css" />
 </div>
 
-### Backend Frameworks
+<div align="center">
+  <h3>Backend Frameworks</h3>
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
 </div>
 
-### Cloud & Infrastructure
+<div align="center">
+  <h3>Cloud & Infrastructure</h3>
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,terraform,kubernetes" />
 </div>
 
-### Databases
+<div align="center">
+  <h3>Databases</h3>
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=postgresql,redis,dynamodb" />
 </div>
 
-### Tools & Technologies
+<div align="center">
+  <h3>Tools & Technologies</h3>
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,playwright,nginx,linux,ubuntu,debian,arch,bash" />
