@@ -88,7 +88,7 @@ class SoftwareEngineer:
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,playwright,nginx,linux,ubuntu,debian,arch,bash" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,nginx,linux,ubuntu,debian,arch,bash" />
 </div>
 
 ---
