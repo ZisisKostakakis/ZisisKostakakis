@@ -8,6 +8,12 @@
   <img src="https://img.shields.io/github/stars/ZisisKostakakis?label=Total%20Stars&style=for-the-badge&color=FCA311&labelColor=0D1117" alt="Total Stars" />
 </div>
 
+<div align="center">
+  <a href="https://www.zisiskostakakis.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -197,33 +203,6 @@ class SoftwareEngineer:
       </td>
     </tr>
   </table>
-</div>
-
----
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/zisis-kostakakis-5b85961b7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ZisisKostakakis" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.zisiskostakakis.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:business@zisiskostakakis.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ZisisKostakakis?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos" />
-  </a>
 </div>
 
 ---
