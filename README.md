@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZisisKostakakis&color=FCA311&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ZisisKostakakis&color=FCA311&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ZisisKostakakis?label=Followers&style=for-the-badge&color=FCA311&labelColor=0D1117" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ZisisKostakakis?label=Total%20Stars&style=for-the-badge&color=FCA311&labelColor=0D1117" alt="Total Stars" />
 </div>
 
 ---
@@ -19,7 +21,7 @@ class SoftwareEngineer:
         self.experience = "3+ years"
         self.specialization = "Backend Development | AWS Cloud | Python"
         self.status = "Open to opportunities"
-        
+  
     def current_focus(self):
         return [
             "Building scalable cloud-native applications",
@@ -27,7 +29,7 @@ class SoftwareEngineer:
             "AWS serverless architecture",
             "Full-stack web development"
         ]
-    
+  
     def interests(self):
         return [
             "Cloud Computing",
@@ -41,72 +43,152 @@ class SoftwareEngineer:
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+### Backend Languages
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,java" />
+</div>
 
-### Backend & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+### Frontend Frameworks
 
-### Databases & Tools
-![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,angular,html,css" />
+</div>
+
+### Backend Frameworks
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
+</div>
+
+### Cloud & Infrastructure
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,kubernetes" />
+</div>
+
+### Databases
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,dynamodb" />
+</div>
+
+### Tools & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,playwright,nginx,linux,ubuntu,debian,arch,bash" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZisisKostakakis&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
+### Profile Summary Cards
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZisisKostakakis&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FCA311&icon_color=FCA311&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZisisKostakakis&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=FCA311&text_color=ffffff"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZisisKostakakis&theme=github_dark" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ZisisKostakakis&theme=dark&hide_border=true&background=0D1117&ring=FCA311&fire=FCA311&currStreakLabel=FCA311" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZisisKostakakis&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZisisKostakakis&theme=github_dark" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZisisKostakakis&theme=github-dark&hide_border=true&bg_color=0D1117&color=ffffff&line=FCA311&point=ffffff&area=true&area_color=FCA311" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZisisKostakakis&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZisisKostakakis&theme=github_dark&utcOffset=0" alt="Productive Time" />
+</div>
+
+### Detailed Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZisisKostakakis&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FCA311&icon_color=FCA311&text_color=ffffff&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZisisKostakakis&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=FCA311&text_color=ffffff&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZisisKostakakis&theme=github-dark&hide_border=true&bg_color=0D1117&color=ffffff&line=FCA311&point=ffffff&area=true&area_color=FCA311&border_radius=10" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Date Calculator](https://github.com/ZisisKostakakis/date-calculator)
-A modern full-stack web application for calculating and tracking days across custom date ranges with configurable anchor periods. Built with Next.js 15, React 19, TypeScript, and Flask backend on AWS Lambda.
-
-**Tech Stack:** Next.js | React | TypeScript | Flask | AWS Lambda | Docker
-
-### [Student Loan Checker](https://github.com/ZisisKostakakis/student-loan-checker)
-Automated Python bot using Playwright to log into the Student Loans Company portal and retrieve comprehensive loan balance information with 2FA support.
-
-**Tech Stack:** Python | Playwright | Web Scraping | Automation
-
-### [Transport Info](https://github.com/ZisisKostakakis)
-Full-stack web application on AWS that uses public transport data to provide real-time information to users. Serverless architecture with Lambda, DynamoDB, and API Gateway.
-
-**Tech Stack:** Python | Flask | AWS Lambda | DynamoDB | Terraform | API Gateway
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📅 Date Calculator</h3>
+        <div align="center">
+          <a href="https://github.com/ZisisKostakakis/date-calculator">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZisisKostakakis&repo=date-calculator&theme=dark&bg_color=0D1117&title_color=FCA311&icon_color=FCA311&hide_border=true&border_radius=10" />
+          </a>
+        </div>
+        <p align="center">
+          <a href="https://github.com/ZisisKostakakis/date-calculator" target="_blank">
+            <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://date-calc.zisiskostakakis.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live-Demo-FCA311?style=for-the-badge" />
+          </a>
+        </p>
+        <p><strong>Tech Stack:</strong> Next.js | React | TypeScript | Flask | AWS Lambda | Docker</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎓 Student Loan Checker</h3>
+        <div align="center">
+          <a href="https://github.com/ZisisKostakakis/student-loan-checker">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZisisKostakakis&repo=student-loan-checker&theme=dark&bg_color=0D1117&title_color=FCA311&icon_color=FCA311&hide_border=true&border_radius=10" />
+          </a>
+        </div>
+        <p align="center">
+          <a href="https://github.com/ZisisKostakakis/student-loan-checker" target="_blank">
+            <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+        <p><strong>Tech Stack:</strong> Python | Playwright | Web Scraping | Automation</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🚌 Transport Info</h3>
+        <div align="center">
+          <p><strong>Full-stack web application on AWS</strong></p>
+          <p>Serverless architecture with Lambda, DynamoDB, and API Gateway</p>
+        </div>
+        <p align="center">
+          <a href="https://github.com/ZisisKostakakis" target="_blank">
+            <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+        <p><strong>Tech Stack:</strong> Python | Flask | AWS Lambda | DynamoDB | Terraform | API Gateway</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">💼 Portfolio Website</h3>
+        <div align="center">
+          <p><strong>Modern portfolio website</strong></p>
+          <p>Showcasing projects and technical skills</p>
+        </div>
+        <p align="center">
+          <a href="https://www.zisiskostakakis.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live-Demo-FCA311?style=for-the-badge" />
+          </a>
+        </p>
+        <p><strong>Tech Stack:</strong> Next.js | React | TypeScript | Tailwind CSS | Vercel</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZisisKostakakis/ZisisKostakakis/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
@@ -127,16 +209,44 @@ Full-stack web application on AWS that uses public transport data to provide rea
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/ZisisKostakakis?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos" />
+  </a>
+</div>
+
 ---
 
 ## 💡 Fun Facts
 
-- 🔭 I'm currently working on cloud-native applications and serverless architectures
-- 🌱 I'm learning more about advanced AWS services and DevOps practices
-- 👯 I'm open to collaborating on interesting projects
-- 💬 Ask me about Python, AWS, or full-stack development
-- 📫 How to reach me: business@zisiskostakakis.com
-- ⚡ Fun fact: I love solving complex problems and turning them into elegant solutions
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <ul align="left">
+          <li>🔭 I'm currently working on cloud-native applications and serverless architectures</li>
+          <li>🌱 I'm learning more about advanced AWS services and DevOps practices</li>
+          <li>👯 I'm open to collaborating on interesting projects</li>
+        </ul>
+      </td>
+      <td>
+        <ul align="left">
+          <li>💬 Ask me about Python, AWS, or full-stack development</li>
+          <li>📫 How to reach me: business@zisiskostakakis.com</li>
+          <li>⚡ Fun fact: I love solving complex problems and turning them into elegant solutions</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 💻 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</div>
 
 ---
 
@@ -147,4 +257,3 @@ Full-stack web application on AWS that uses public transport data to provide rea
 <div align="center">
   <img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&size=14&duration=2000&pause=1000&color=FCA311&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
-
