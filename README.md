@@ -114,10 +114,6 @@ class SoftwareEngineer:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZisisKostakakis&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=FCA311&text_color=ffffff&border_radius=10"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZisisKostakakis&theme=github-dark&hide_border=true&bg_color=0D1117&color=ffffff&line=FCA311&point=ffffff&area=true&area_color=FCA311&border_radius=10" alt="GitHub Activity Graph" />
-</div>
-
 ---
 
 ## 🚀 Featured Projects
@@ -167,6 +163,9 @@ class SoftwareEngineer:
         <p align="center">
           <a href="https://github.com/ZisisKostakakis" target="_blank">
             <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <a href="https://www.transports-info.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live-Demo-FCA311?style=for-the-badge" />
           </a>
         </p>
         <p><strong>Tech Stack:</strong> Python | Flask | AWS Lambda | DynamoDB | Terraform | API Gateway</p>
