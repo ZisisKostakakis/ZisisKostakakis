@@ -4,8 +4,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ZisisKostakakis&color=FCA311&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ZisisKostakakis?label=Followers&style=for-the-badge&color=FCA311&labelColor=0D1117" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ZisisKostakakis?label=Total%20Stars&style=for-the-badge&color=FCA311&labelColor=0D1117" alt="Total Stars" />
 </div>
 
 <div align="center">
