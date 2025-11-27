@@ -123,13 +123,6 @@ class SoftwareEngineer:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZisisKostakakis&theme=github_dark&utcOffset=0" alt="Productive Time" />
 </div>
 
-### Detailed Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZisisKostakakis&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FCA311&icon_color=FCA311&text_color=ffffff&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZisisKostakakis&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=FCA311&text_color=ffffff&border_radius=10"/>
-</div>
-
 ---
 
 ## 🚀 Featured Projects
